@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 emby/embyserver:latest
 emby/embyserver:latest
-nastool/nas-tools
+nastool/nas-tools:3.2.3
+nastool/nas-tools:2.9.1
