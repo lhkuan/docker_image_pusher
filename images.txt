@@ -11,3 +11,4 @@ nastool/nas-tools
 linuxserver/jackett:latest
 linuxserver/qbittorrent:latest
 iyuucn/iyuuplus-dev:latest
+iyuucn/iyuuplus
