@@ -12,3 +12,4 @@ linuxserver/jackett:latest
 linuxserver/qbittorrent:latest
 iyuucn/iyuuplus-dev:latest
 iyuucn/iyuuplus
+vulhub/aria2
