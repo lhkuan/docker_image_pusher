@@ -6,13 +6,13 @@
 #--platform=linux/arm64 emby/embyserver:latest
 emby/embyserver:latest
 
-nastool/nas-tools
-19970688/nastools-bt
-linuxserver/jackett:latest
-linuxserver/qbittorrent:latest
-iyuucn/iyuuplus-dev:latest
-iyuucn/iyuuplus
-vulhub/aria2
-jeessy/ddns-go
+#nastool/nas-tools
+#19970688/nastools-bt
+#linuxserver/jackett:latest
+#linuxserver/qbittorrent:latest
+#iyuucn/iyuuplus-dev:latest
+#iyuucn/iyuuplus
+#vulhub/aria2
+#jeessy/ddns-go
 developer024/networkdownload
 
